@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Rogue Atlas
-email: r.a.lamanna01@gmail.com
 description: TTRPG game design blog by Rockamis. Come here to find discussions about designing fantasy sandbox campaigns and creating content for TTRPGs instead of rules for TTRPGs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
