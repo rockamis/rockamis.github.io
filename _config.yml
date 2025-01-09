@@ -20,8 +20,8 @@
 
 title: Rogue Atlas
 description: TTRPG game design blog by Rockamis. Come here to find discussions about designing fantasy sandbox campaigns and creating content for TTRPGs instead of rules for TTRPGs.
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "rockamis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "rockamis.github.io/home" # the base hostname & protocol for your site, e.g. http://example.com
 bluesky_username: rockamis.bsky.social
 github_username:  rockamis
 
