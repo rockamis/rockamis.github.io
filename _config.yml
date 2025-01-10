@@ -20,6 +20,7 @@
 
 title: Rogue Atlas
 description: TTRPG game design blog by Rockamis. Come here to find discussions about designing fantasy sandbox campaigns and creating content for TTRPGs instead of rules for TTRPGs.
+author: Rockamis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "rockamis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 bluesky_username: rockamis.bsky.social
@@ -29,11 +30,6 @@ github_username:  rockamis
 theme: minima
 plugins:
   - jekyll-feed
-  
-minima:
-    social_links:
-        - {platform: github, user_url: "https://github.com/rockamis"
-        - {platform: bluesky, user_url: "https://bsky.app/profile/rockamis.bsky.social"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
