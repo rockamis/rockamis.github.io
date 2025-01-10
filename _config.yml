@@ -31,8 +31,10 @@ plugins:
   
 minima:
     social_links:
-        - {platform: bluesky,  user_url: "https://bsky.app/profile/rockamis.bsky.social" }
-        - {platform: github,   user_url: "https://github.com/rockamis" }
+        - {platform: bluesky,  
+            user_url: "https://bsky.app/profile/rockamis.bsky.social" }
+        - {platform: github,   
+            user_url: "https://github.com/rockamis" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
